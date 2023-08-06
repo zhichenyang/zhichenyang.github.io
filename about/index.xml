@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About Me on Evian | Personal blog template</title>
+    <title>About Me on Evian | Personal blog</title>
     <link>https://zhichenyang.github.io/about/</link>
-    <description>Recent content in About Me on Evian | Personal blog template</description>
+    <description>Recent content in About Me on Evian | Personal blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 06 Aug 2023 23:49:23 +0800</lastBuildDate><atom:link href="https://zhichenyang.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 07 Aug 2023 01:05:23 +0800</lastBuildDate><atom:link href="https://zhichenyang.github.io/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
